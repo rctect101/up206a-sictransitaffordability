@@ -11,6 +11,7 @@ A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why sp
 A preliminary but definitive description of data sources (at least two) that you will use
 
 Include datasource with links
+
 https://usc.data.socrata.com/Los-Angeles/Rent-Price-LA-/4a97-v5tx
 https://usc.data.socrata.com/Los-Angeles/Commute-Mode-LA-/ff5n-m9wp
 https://data.lacity.org/A-Prosperous-City/Building-Permits-New-Housing-Units/cpkv-aajs/data
