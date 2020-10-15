@@ -19,3 +19,5 @@ https://data.lacity.org/A-Prosperous-City/Building-Permits-New-Housing-Units/cpk
 A scope that explains the intended analysis and resulting visualizations for your project
 
 A concluding paragraph of what insights you expect to gain from your research
+
+Hi
