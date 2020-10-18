@@ -1,23 +1,26 @@
-Sic Transit Affordability
+## Sic Transit Affordability
 
 Fernando Abarca & Ryan Caro
 
-An introduction of your research question
+### Introduction
+Our research question intends to explore the interrelationship between transportation and housing affordability. We will use three different data sets to analyze potential correlations between use of transportation mode (commute mode data from Neighborhood Data for Social Change at the USC Price School) and new construction by using building permit data from the City of Los Angeles. By analysing both data sets from 2010-2016 we can infer if public transit expansion may be an incentive for new construction in the City of Los Angeles. We can further analyze if these two factors have impacted rent prices in Los Angeles by using rent data, also from NDSC at Price.  
 
-An explanation of why it is important to you, why it matters to others, and what is at stake
+### Why It Matters
+The information we retrieve by comparing these three data sets will allow us to see the impact that public transportation expansion and investment may have in incentivizing new construction and, furthermore, on rent levels across the City of Los Angeles. This research is important to us because we have seen different city officials, agencies, and advocacy groups advocating for the expansion of Metro Rail and alternative forms of mobility. However this has sparked debate on whether metro rail investment and expansion has led to rent level increases and new construction development, particularly in low income neighborhoods. Unfortunately, these new developments may be leading to further displacement and gentrification in underserved communities. Visualizing the relationship between these three factors and determining whether they have led to rent increases is important for advocacy efforts in favor of prioritizing affordable housing development near transit. COVID has further exacerbated the houseless problem in Los Angeles. Development of affordable housing in general, but especially near transit, is one strategy in ensuring at risk families maintain a roof over their head while having access to affordable transportation. 
 
-A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
+### Spatial Scope
+The spatial scope for this project is the City of Los Angeles. While data for Community Mode of Transportation is available County wide, our data for Building Permits is LA City specific. Space in this case matters because we are limited in scope to analyze the impact building permits and modes of transportation may have within the 15 Council districts that make up the CIty of Los Angeles. Time is also relevant because we are looking to see if affordability has changed in these neighborhoods over time. We want to analyze if rent increases may have correlations to new construction and modes of transportation and rail expansion over time.  
 
-A preliminary but definitive description of data sources (at least two) that you will use
+### Data Sources
 
-Include datasource with links
+* Rent prices in LA by census tract, 2010-2016 at [Neighborhood Data for Social Change](https://usc.data.socrata.com/Los-Angeles/Rent-Price-LA-/4a97-v5tx). Though this dataset does not control by home size or housing quality, it shows where median rents have changed or held constant in Los Angeles. The timeframe for this data will limit our analysis.
+* Commute mode in LA by census tract, 2010-2018 at [Neighborhood Data for Social Change](https://usc.data.socrata.com/Los-Angeles/Commute-Mode-LA-/ff5n-m9wp). This commute mode data shows the percentage of residents walking/biking/taking transit to work, so we can compare commute modes with housing affordability.
+* Building Permits: New Housing Units, 2000-2018 at [City of LA](https://data.lacity.org/A-Prosperous-City/Building-Permits-New-Housing-Units/cpkv-aajs/data). This data shows new housing starts. We can overlay it with the median rent data to show which neighborhoods have had the most new construction and whether that correlated with transit use or affordability. 
+* LA Metro rail lines from [LA Metro Developer Data](https://developer.metro.net/docs/gis-data/overview/). We can overlay our maps with the LA Metro lines to show which areas are closest to rail stations. 
 
-https://usc.data.socrata.com/Los-Angeles/Rent-Price-LA-/4a97-v5tx
-https://usc.data.socrata.com/Los-Angeles/Commute-Mode-LA-/ff5n-m9wp
-https://data.lacity.org/A-Prosperous-City/Building-Permits-New-Housing-Units/cpkv-aajs/data
+### Scope
+We intend to use these datasets to analyze how median rents have changed along with both housing starts and transit use from 2010 to 2016. While we cannot show a causal relationship, we expect to observe many interesting correlations between these data. Since the data is organized by census tracts, we will be able to use choropleths to show which neighborhoods have the highest levels of median rent, transit use, and new construction. We will also be able to use heatmaps to show intersections of data, for example, which areas with many new building permits have remained affordable. If possible, we would like to create a sliding time scale to switch between years to show how the data we are analyzing has changed over time. We will overlay our maps with the LA Metro rail lines to show which areas are closest to Metro rail stations, as mentioned above. 
 
-A scope that explains the intended analysis and resulting visualizations for your project
+### Conclusion
+Through this project, we hope to better understand the interaction of transit use, construction, and housing affordability. Since the first stage of the Expo Line (now E line) opened in 2012, we are particularly interested in how the new rail line affected these three factors. We will be able to identify neighborhoods that have remained affordable, whether despite or because of new construction. 
 
-A concluding paragraph of what insights you expect to gain from your research
-
-Hi
