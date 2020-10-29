@@ -1,1 +1,1 @@
-# Sic Transit Affordabilty
+# Sic Transit Affordability
